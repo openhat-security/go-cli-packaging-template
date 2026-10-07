@@ -1,0 +1,2 @@
+# PRODUCT apt repo (GitHub Pages, shared pool with other ORG CLIs)
+deb [trusted=yes] @REPO_URL@/deb stable main

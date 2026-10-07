@@ -1,0 +1,5 @@
+[PRODUCT]
+name=BINARY_NAME (GitHub Pages)
+baseurl=@REPO_URL@/rpm
+enabled=1
+gpgcheck=0

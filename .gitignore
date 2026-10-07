@@ -1,0 +1,10 @@
+# GoReleaser
+dist/
+
+# winget output
+packaging/winget/*/
+!packaging/winget/generate.sh
+
+# npm
+packaging/npm/node_modules/
+packaging/npm/.npmrc

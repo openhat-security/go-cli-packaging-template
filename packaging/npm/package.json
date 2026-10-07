@@ -1,0 +1,16 @@
+{
+  "name": "BINARY_NAME",
+  "version": "0.0.0-template",
+  "description": "PROJECT_NAME — npm wrapper (downloads GitHub Release binary)",
+  "bin": {
+    "BINARY_NAME": "bin/BINARY_NAME"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ORG/GITHUB_REPO.git"
+  }
+}
